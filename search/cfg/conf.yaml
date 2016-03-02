@@ -1,0 +1,11 @@
+general:
+  port: 8888
+  result_size: 10
+
+db:
+  host: localhost
+  port: 27017
+  name: algthm_development
+
+logging:
+  indexer: logging.yaml
